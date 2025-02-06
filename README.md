@@ -18,13 +18,13 @@ When I’m not working with data, I enjoy writing about machine learning, data e
 Below are some of the technologies I regularly work with. To see more of my work, check out my [GitHub](https://github.com/raghavmits).
 
 **🤖 Machine Learning & Data Science**  
-PyTorch, Scikit-Learn, Pandas, NumPy, LangChain, MLflow, Streamlit, Hugging Face
+PyTorch, Scikit-Learn, LangChain, MLflow, Streamlit, Gradio Hugging Face
 
 **☁️ Cloud & DevOps**  
-AWS (S3, Lambda, DynamoDB, ECS, Fargate), GCP, Docker, Kubernetes, Airflow, dbt
+AWS (S3, Lambda, DynamoDB, ECS), GCP, Docker, Kubernetes, Airflow, dbt
 
 **🏗️ Backend & Data Engineering**  
-FastAPI, Flask, SQL, NoSQL, Spark, Kafka, PostgreSQL, Snowflake, ETL Pipelines, REST APIs
+FastAPI, Flask, PostgreSQL, NoSQL, Spark, Kafka, Snowflake, REST APIs
 
 If you’d like to collaborate, discuss ideas, or just chat about ML and data engineering, feel free to reach out!
 
