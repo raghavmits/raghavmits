@@ -6,12 +6,12 @@ I have extensive experience in designing and deploying cloud-native machine lear
 
 Recently, I built an end-to-end solution to analyze and optimize EV charging-related emissions using machine learning and real-time marginal emissions data. I also developed a computer-vision based reactor state analysis app.
 
-When I’m not working with data, I enjoy writing about machine learning, data engineering, and system design. I share insights through blog posts on [Medium](https://medium.com/@raghavmittal) and [LinkedIn](https://www.linkedin.com/in/raghav-mittal/).
+When I’m not working with data, I enjoy writing about machine learning, data engineering, and system design. I share insights through blog posts on [Medium](https://medium.com/@raghavmittal) and [LinkedIn](https://www.linkedin.com/in/raghav-mi/).
 
 ## 🔗 Connect with me
 <a href="https://raghavmits.github.io" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://medium.com/@raghavmittal" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/raghav-mittal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/raghav-mi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## ⚡ Technologies
 
